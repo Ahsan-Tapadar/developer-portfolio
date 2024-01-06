@@ -205,3 +205,17 @@ main section {
     height: 1px;
     margin: 30px ;
 }
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
+}
+/* footer styles */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px ;
+
+}
